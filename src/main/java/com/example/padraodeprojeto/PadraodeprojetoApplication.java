@@ -10,8 +10,7 @@ public class PadraodeprojetoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PadraodeprojetoApplication.class, args);
-	test t = new test();
-	t.setNome("ddddd");
+
 
 	}
 
