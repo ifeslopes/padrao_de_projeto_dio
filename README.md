@@ -28,13 +28,13 @@ Pagina principal com os metodos Get, Post, Put, Delete.<br>
 ![](/src/main/java/fotos/readme1.png)
 
 Adicinado um novo usuario e endereço.<br>
-![](/src/main/java/fotos/readme1.png)
+![](/src/main/java/fotos/POST.png)
 
 Mostrando usuário Cadastrado busca feita por id, Nome e endereço.<br>
-![](/src/main/java/fotos/readme1.png)
+![](/src/main/java/fotos/GET-id.png)
 Atualizar endereços.<br>
-![](/src/main/java/fotos/readme1.png)
+![](/src/main/java/fotos/PUT.png)
 Deletetar Usuário endereços.<br>
-
+![](/src/main/java/fotos/DELETE.png)
 ### Próximas atualizações 
 customizar tratamentos de exceções.
