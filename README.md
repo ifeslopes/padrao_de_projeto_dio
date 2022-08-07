@@ -20,7 +20,7 @@ O usuário vai passar um nome e um numero de cep, e o sistema vai preencher auto
 
 ### Utilização e Documentação
 1. Clone Repositório 
-2. Aguarde mave baixar as dependências
+2. Aguarde maven baixar as dependências
 3. [opcional] Troque a porta padrão no aquirvo application.properties adicione esta linha: **server.port=${port:3001}**
 4.  Rode o projeto e entre no endereço: http://localhost:3001/swagger-ui/index.html
 ### Documentação
