@@ -16,7 +16,7 @@ O usuário vai passar um nome e um numero de cep, e o sistema vai preencher auto
 - API Via Cep: [Link do site da API](https://viacep.com.br/)
 
 ### Arquitetura Do Projeto
-
+![](/src/main/java/fotos/arqu.png)
 
 ### Utilização e Documentação
 1. Clone Repositório 
